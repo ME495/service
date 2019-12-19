@@ -1,0 +1,7 @@
+ckpt/
+video_feature/
+sports1m_finetuning_ucf101.model
+*.pyc
+*.log
+.ipynb_checkpoints/
+*.ipynb
